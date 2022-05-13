@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css  -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagame8732/tours-app.git"
+  },
+  "author": "kagame8732",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kagame8732/tours-app/issues"
+  },
+  "homepage": "https://github.com/kagame8732/tours-app#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
